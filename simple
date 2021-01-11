@@ -1,4 +1,4 @@
-me: simple workflow
+name: simple workflow
 jobs:
   run-github-actions:
     runs-on: centos
