@@ -1,0 +1,13 @@
+me: simple workflow
+jobs:
+  run-github-actions:
+    runs-on: centos
+    steps:
+      -name: simple js actions
+         name: simple workflow
+jobs:
+  run-github-actions:
+    runs-on: centos
+    steps:
+      -name: simple js actions
+         
